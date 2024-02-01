@@ -11,7 +11,7 @@ return (
   <section id="header">
 	<nav class="navbar navbar-default navbar-fixed-top" style={{backgroundColor:'grey'}}>
         <div class="container">
-            <a className="navbar-brand heading_tag" href="index.html">
+            <a className="navbar-brand heading_tag" href="/">
               Marriage
             </a>
            <div>
@@ -25,7 +25,7 @@ return (
             >
               <ul className="navbar-nav ml-auto">
               <li>
-                        <a class="tag_menu active_tab" href="index.html">HOME</a>                    </li>
+                        <Link class="tag_menu" to="/">HOME</Link>                    </li>
                      
                     <li>
                         <Link class="tag_menu" to="/about">ABOUT</Link>                    </li>
