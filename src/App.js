@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Master from './component/maincomp/Master';
 import Home from './component/maincomp/Home';
 import About from './component/pages/About';
-import { Blog } from './component/pages/Blog';
+import Blog  from './component/pages/Blog';
 
 // import "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
 
