@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Blog = () => {
+const Blog = () => {
   return (
     <div>
       <section id="blog" class="clearfix">
@@ -229,7 +229,7 @@ export const Blog = () => {
         </div>
       </section>
     </div>
-  );
+  )
 };
 
 export default Blog;
