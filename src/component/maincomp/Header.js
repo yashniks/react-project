@@ -42,13 +42,18 @@ return (
                         <Link class="tag_menu" to="/gallery">GALLERY</Link>                    </li>
 					
 					<li>
-                        <a class="tag_menu" href="service.html">SERVICES</a>                    </li>
+                         
+                        <Link class="tag_menu" to="/services">SERVICES</Link>                   </li>
 						
 					<li>
-                        <a class="tag_menu" href="team.html">TEAM</a>                    </li>
+                        
+                        <Link class="tag_menu" to="/team">TEAM</Link>
+                         
+                                           </li>
 						
 					<li>
-                        <a class="tag_menu" href="contact.html">CONTACT</a>                    </li>
+                        
+                        <Link class="tag_menu" to="/contact">CONTACT</Link>                    </li>
 					
 					<li class="dropdown">
 					  <a class="tag_menu" href="#" data-toggle="dropdown" role="button" aria-expanded="false">MORE<span class="caret"></span></a>
