@@ -3,7 +3,24 @@ import React from 'react'
 export const Testimonial = () => {
   return (
     <div>
-        <section id="testimonial" class="clearfix">
+<section id="about" class="about_testy clearfix">
+ <div class="about_main clearfix">
+   <div class="container">
+  <div class="row">
+   <div class="about clearfix">
+   <div class="col-sm-7 about_left clearfix">
+    <div class="about_left_inner clearfix">
+	 <h1>Testimonials</h1>
+	 <h5>Adipiscing  /  Torquent  /  Litora  /  Sociosqu</h5>
+	</div>
+   </div>	 
+   </div>
+  </div>
+ </div>
+ </div>
+</section>
+
+<section id="testimonial" class="clearfix">
   <div class="container">
    <div class="row">
     <div class="testimonial clearfix">
